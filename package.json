@@ -1,0 +1,23 @@
+{
+  "name": "rank-team-agency",
+  "version": "1.0.0",
+  "description": "Website for Rank Team Agency",
+  "main": "index.js",
+  "scripts": {
+    "test:links": "node tests/link-checker.js",
+    "test:responsive": "node tests/responsive-checker.js",
+    "test:html": "node tests/html-validator.js",
+    "test:images": "node optimize-images.js",
+    "test:report": "node tests/generate-report.js",
+    "test": "npm run test:html && npm run test:links && npm run test:responsive && npm run test:images && npm run test:report",
+    "start": "npx http-server -p 8000"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

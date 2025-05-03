@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rank Team Agency | We Make You Rank</title>
+    <meta name="description" content="Rank Team Agency specializes in SEO, AI Agents, Automation, Social Media Posting, and Website Creation to boost your online presence.">
+    <link rel="stylesheet" href="css/styles.min.css">
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header id="main-header">
+        <div class="container">
+            <div class="logo">
+                <img src="images/logo.png" alt="Rank Team Agency Logo" class="logo-img">
+                <div class="logo-text">
+                    <h1>Rank Team Agency</h1>
+                    <p class="tagline">We Make You Rank</p>
+                </div>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact" class="btn-primary">Contact Us</a></li>
+                </ul>
+            </nav>
+            <div class="mobile-menu-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h2>Boost Your Online Presence</h2>
+                    <p>Leveraging SEO, AI, and advanced digital marketing strategies to make your business rank higher.</p>
+                    <div class="cta-buttons">
+                        <a href="#services" class="btn-primary">Our Services</a>
+                        <a href="#contact" class="btn-secondary">Get a Free Consultation</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section id="services" class="services">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Our Services</h2>
+                    <p>Comprehensive digital solutions to elevate your brand</p>
+                </div>
+                <div class="services-grid">
+                    <div class="service-card">
+                        <div class="service-icon">
+                            <i class="fas fa-search"></i>
+                        </div>
+                        <h3>Search Engine Optimization</h3>
+                        <p>Climb the search rankings with our data-driven SEO strategies tailored to your business objectives.</p>
+                        <a href="services/seo.html" class="service-link">Learn More</a>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <h3>AI Agents</h3>
+                        <p>Harness the power of artificial intelligence to enhance customer engagement and streamline operations.</p>
+                        <a href="services/ai-agents.html" class="service-link">Learn More</a>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">
+                            <i class="fas fa-cogs"></i>
+                        </div>
+                        <h3>Automation</h3>
+                        <p>Optimize your workflow with intelligent automation solutions that save time and reduce costs.</p>
+                        <a href="services/automation.html" class="service-link">Learn More</a>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">
+                            <i class="fas fa-share-alt"></i>
+                        </div>
+                        <h3>Social Media Posting</h3>
+                        <p>Engage your audience with strategic, timely, and relevant content across all social platforms.</p>
+                        <a href="services/social-media.html" class="service-link">Learn More</a>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">
+                            <i class="fas fa-laptop-code"></i>
+                        </div>
+                        <h3>Website Creation</h3>
+                        <p>Create stunning, responsive websites that convert visitors into customers and elevate your brand.</p>
+                        <a href="services/website-creation.html" class="service-link">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about">
+            <div class="container">
+                <div class="section-header">
+                    <h2>About Rank Team Agency</h2>
+                    <p>Your growth partner in the digital landscape</p>
+                </div>
+                <div class="about-content">
+                    <div class="about-text">
+                        <p>Rank Team Agency is a forward-thinking digital marketing agency specializing in helping businesses achieve higher visibility and better results online. Founded on the principles of innovation, data-driven strategies, and client success, we've helped numerous companies across various industries improve their digital presence.</p>
+                        <p>Our team of experts stays ahead of the curve with the latest trends in SEO, artificial intelligence, automation, social media, and web development to deliver customized solutions that drive real growth for your business.</p>
+                        <div class="stats-container">
+                            <div class="stat-item">
+                                <h3>200+</h3>
+                                <p>Clients Served</p>
+                            </div>
+                            <div class="stat-item">
+                                <h3>85%</h3>
+                                <p>Ranking Improvement</p>
+                            </div>
+                            <div class="stat-item">
+                                <h3>15+</h3>
+                                <p>Years Experience</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Portfolio Section -->
+        <section id="portfolio" class="portfolio">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Our Success Stories</h2>
+                    <p>See the results we've achieved for our clients</p>
+                </div>
+                <div class="portfolio-grid">
+                    <!-- Portfolio items will be added in the next phase -->
+                    <div class="portfolio-item">
+                        <h3>TechStart Innovations</h3>
+                        <p>Increased organic traffic by 175% in 6 months through comprehensive SEO strategy</p>
+                    </div>
+                    <div class="portfolio-item">
+                        <h3>Global Retail Solutions</h3>
+                        <p>Implemented AI chatbot resulting in 45% increase in customer satisfaction and 30% reduction in support costs</p>
+                    </div>
+                    <div class="portfolio-item">
+                        <h3>FitLife Wellness</h3>
+                        <p>Revamped website design and optimized conversion paths leading to 90% increase in lead generation</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Get In Touch</h2>
+                    <p>Ready to improve your rankings? Contact us today!</p>
+                </div>
+                <div class="contact-container">
+                    <div class="contact-info">
+                        <div class="info-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <p>123 Digital Avenue, Tech City</p>
+                        </div>
+                        <div class="info-item">
+                            <i class="fas fa-phone"></i>
+                            <p>(555) 123-4567</p>
+                        </div>
+                        <div class="info-item">
+                            <i class="fas fa-envelope"></i>
+                            <p>info@rankteamagency.com</p>
+                        </div>
+                        <div class="social-links">
+                            <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                            <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="contact-form">
+                        <form id="contact-form">
+                            <div class="form-group">
+                                <input type="text" id="name" name="name" placeholder="Your Name" required>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" id="email" name="email" placeholder="Your Email" required>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" id="subject" name="subject" placeholder="Subject">
+                            </div>
+                            <div class="form-group">
+                                <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+                            </div>
+                            <button type="submit" class="btn-primary">Send Message</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h3>Rank Team Agency</h3>
+                    <p>We Make You Rank</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#portfolio">Portfolio</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-services">
+                    <h4>Our Services</h4>
+                    <ul>
+                        <li><a href="services/seo.html">SEO</a></li>
+                        <li><a href="services/ai-agents.html">AI Agents</a></li>
+                        <li><a href="services/automation.html">Automation</a></li>
+                        <li><a href="services/social-media.html">Social Media</a></li>
+                        <li><a href="services/website-creation.html">Website Creation</a></li>
+                    </ul>
+                </div>
+                <div class="footer-newsletter">
+                    <h4>Subscribe to Our Newsletter</h4>
+                    <form id="newsletter-form">
+                        <input type="email" placeholder="Your Email Address" required>
+                        <button type="submit"><i class="fas fa-paper-plane"></i></button>
+                    </form>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Rank Team Agency. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
